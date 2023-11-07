@@ -1,4 +1,4 @@
-<pre>**Recipe API** is tested from usmanlive API.
+*Recipe API** is tested from usmanlive API.
 First of all we defined a function/called a method to load jquery after page loading.
 
 
@@ -24,4 +24,4 @@ After that an event listener is added to Add Button and a method is called on cl
 
 
 In last, we added event listener to update button and called a funtion on click event.
-    In the function we grabbed the id, body and title of data to be updated and made a **PUT** request to api with /id route. After successful posting we made a call to loadRecipe to refresh page and made the modal hidden.</pre>
+    In the function we grabbed the id, body and title of data to be updated and made a **PUT** request to api with /id route. After successful posting we made a call to loadRecipe to refresh page and made the modal hidden.
