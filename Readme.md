@@ -1,4 +1,4 @@
-*Recipe API** is tested from usmanlive API.
+**Recipe API** is tested from usmanlive API.
 First of all we defined a function/called a method to load jquery after page loading.
 
 
